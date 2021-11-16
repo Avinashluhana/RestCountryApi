@@ -1,0 +1,25 @@
+.navbar {
+    height: 30px;
+    background-color: #2b3743;
+    height: 80px;
+    color: white;
+    border-bottom: 10px black;
+  }
+  
+  .navbar-light {
+    background-color: #FFFFFF;
+    color:black;
+    /* border-bottom: 1px solid black; */
+  }
+  .heading {
+    margin-top: 20px;
+    margin-left: 30px;
+  }  
+
+  .dark-mode {
+    margin-left: 1000px;
+    cursor: pointer;
+  }
+
+  
+  
